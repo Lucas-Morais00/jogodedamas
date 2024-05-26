@@ -1,2 +1,2 @@
-# jogodedamas
-Jogo de Damas - Eng de Software II - SENAC
+# Jogo de damas para a aula de Eng. de Software 2
+
